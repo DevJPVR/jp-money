@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/DevJPVR/jp-money
+$ git clone https://github.com/DevJPVR/jp-money.git
 ```
 
 Para iniciá-lo, siga os passos abaixo:
